@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: visit [my blog](https://velog.io/@wonhee010)
 
-[![wonhee's github stats](https://github-readme-stats.vercel.app/api?username=wonhee009)](https://github.com/anuraghazra/github-readme-stats)
+![wonhee's github stats](https://github-readme-stats.vercel.app/api?username=wonhee009&show_icons=true)
 
 <!--
 **wonhee009/wonhee009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
