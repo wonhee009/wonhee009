@@ -1,5 +1,3 @@
-# wonhee&nbsp;<img src="https://github.com/wonhee009/Kinetic27/blob/master/sans.gif" width="30px">
-
 # Wonhee Lee 🙋‍♀️💻
 
 [![GitHub followers](https://img.shields.io/github/followers/wonhee009?style=social)](https://github.com/wonhee009/?tab=follow)
