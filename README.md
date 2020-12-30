@@ -1,10 +1,10 @@
-# Wonhee Lee 🙋‍♀️💻
-[![GitHub followers](https://img.shields.io/github/followers/wonhee009?style=social)](https://github.com/wonhee009/?tab=follow)
+# Wonhee Lee 🙋‍♀️💻<img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
 ---
 
-### Hi there 👋
+### 📫 How to reach me
 
-- 📫 How to reach me: visit [my blog](https://velog.io/@wonhee010)
+- visit [my Blog](https://velog.io/@wonhee010)
+- visit [my TechWiki](https://www.notion.so/Tech-Wiki-for-wonhee-a-k-a-lasagna-26476d0b0fcd45b7bd4f3b64d56d6f71)
 
 ![wonhee's github stats](https://github-readme-stats.vercel.app/api?username=wonhee009&show_icons=true)
 
@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhee009)
 
 ### Online Judge 💻
 ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wonhee)
