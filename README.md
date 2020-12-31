@@ -11,6 +11,7 @@
 - 📫 How to reach me:
   - 🔥 [Blog](https://velog.io/@wonhee010)
   - 📑 [Tech Wiki](https://www.notion.so/Tech-Wiki-for-wonhee-a-k-a-lasagna-26476d0b0fcd45b7bd4f3b64d56d6f71)
+  - 💼 [Portfolio](https://www.notion.so/Wonhee-Lee-dbbd1e9fd13c42ac958f917a28f68a02)
 
 ![wonhee's github stats](https://github-readme-stats.vercel.app/api?username=wonhee009&show_icons=true)
 
