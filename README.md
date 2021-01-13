@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonhee009&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Wiki Badge](https://img.shields.io/badge/Tech-Wiki-%23000000?style=flat-square&logo=notion&link=https://www.notion.so/Tech-Wiki-for-wonhee-a-k-a-lasagna-26476d0b0fcd45b7bd4f3b64d56d6f71)](https://www.notion.so/Tech-Wiki-for-wonhee-a-k-a-lasagna-26476d0b0fcd45b7bd4f3b64d56d6f71)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FWonhee-Lee-dbbd1e9fd13c42ac958f917a28f68a02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonhee010@gmail.com)](mailto:wonhee010@gmail.com)
 
 ---
