@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning iOS
+- 🔭 I’m currently working on Naver Webtoon
 
 - 📫 How to reach me:
   - 🔥 [Blog](https://velog.io/@wonhee010)
